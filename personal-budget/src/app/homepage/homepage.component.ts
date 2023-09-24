@@ -3,6 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Chart } from 'chart.js';
 import * as d3 from 'd3';
 
+
 @Component({
   selector: 'pb-homepage',
   templateUrl: './homepage.component.html',
